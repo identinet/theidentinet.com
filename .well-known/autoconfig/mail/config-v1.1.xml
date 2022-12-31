@@ -6,8 +6,8 @@
 -->
 
 <clientConfig version="1.1">
-    <emailProvider id="identinet.org">
-        <domain>identinet.org</domain>
+    <emailProvider id="theidentinet.com">
+        <domain>theidentinet.com</domain>
         <displayName>41ppl.com Mail</displayName>
         <displayShortName>41ppl.com</displayShortName>
         <incomingServer type="imap">
