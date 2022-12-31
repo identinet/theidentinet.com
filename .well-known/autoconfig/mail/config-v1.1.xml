@@ -6,10 +6,10 @@
 -->
 
 <clientConfig version="1.1">
-    <emailProvider id="theidentinet.com">
-        <domain>theidentinet.com</domain>
-        <displayName>Freenet Mail</displayName>
-        <displayShortName>Freenet</displayShortName>
+    <emailProvider id="identinet.org">
+        <domain>identinet.org</domain>
+        <displayName>41ppl.com Mail</displayName>
+        <displayShortName>41ppl.com</displayShortName>
         <incomingServer type="imap">
             <hostname>mail.41ppl.com</hostname>
             <port>993</port>
